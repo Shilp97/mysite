@@ -1,7 +1,7 @@
 asn1crypto==0.24.0
 bcrypt==3.1.6
 configparser==3.5.0b2
-cryptography==2.6.1
+cryptography==3.2
 dbus-python==1.2.12
 defusedxml==0.5.0
 Django==1.11.26
